@@ -1,6 +1,7 @@
 # Music Player
 
-![Screenshot (11)](https://github.com/NITESHSAHU107/Music-Player/assets/111894844/a7e34065-0a68-4613-ae47-b4f286f79ef5)
+
+![Screenshot (12)](https://github.com/NITESHSAHU107/Music-Player/assets/111894844/baaa1c18-9c5a-49d5-a891-100f72f143a7)
 
 
 Music Playeris a feature-rich music player that offers a seamless and enjoyable music listening experience. With a modern design and powerful features, it's the perfect companion for your music collection.
